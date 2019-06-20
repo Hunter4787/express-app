@@ -1,0 +1,27 @@
+/*body of contact.html*/
+
+.contact-form{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    background-color: rgb(3, 25, 85);
+}
+
+/* send button */
+.send-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50% ;
+    height: 70px;
+}
+/* home-body */
+.home-body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
